@@ -109,5 +109,16 @@ root@v37r1x:~# echo note.txt
 "Please click on the drop down buttons to see more about me! Thank you for reading <3"
 ```
 
+<div align="left">
+ 
+
+  
+<details>
+  <summary><b>Discord</b></summary>
+  
+  <a href="https://discord.com/users/412641051824750611"></a>
+<img height="80px" src="https://discord.c99.nl/widget/theme-3/412641051824750611.png">
+<br><br>
+    </details>
 
 
