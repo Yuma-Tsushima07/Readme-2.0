@@ -44,7 +44,7 @@ v37r1x@v37r1x:~$ cat learning.txt
 v37r1x@v37r1x:~$ cat hobbies.txt
 "Having an endless list of hobbies is the key to unlock your potential!"
 ```
-<img hight="400" width="500" alt="GIF" align="right" src="">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Yuma-Tsushima07/Readme/blob/main/assets/lelouch-wink.gif">
 
 ### Hobbies
 * 🎨 Digital Artwork 
