@@ -28,7 +28,7 @@ v37r1x@v37r1x:~$ cat learning.txt
 "I love learning a lot of things! Knowledge is power!!"
 ```
 
-<img hight="400" width="500" alt="GIF" align="right" src="">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Yuma-Tsushima07/Readme/blob/main/assets/lelouch-chess.gif">
 
 ### What am I learning next?
 * ⭐ Bio Hacking
