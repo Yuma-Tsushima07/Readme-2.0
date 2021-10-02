@@ -78,7 +78,7 @@ I am just a regular person who came from the creative community now an Elite Hac
 v37r1x@v37r1x:~$ cat languages.txt
 "I do know a lot of languages; who doesn't!"
 ```
-<img hight="400" width="500" alt="GIF" align="right" src="">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Yuma-Tsushima07/Readme/blob/main/assets/lelouch-rule.gif">
 
 ### Languages
 * 🚩 Javascript and Frameworks
