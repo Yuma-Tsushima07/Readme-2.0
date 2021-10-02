@@ -1,5 +1,19 @@
 ## Hello World! 
 
+<p align="center"> 
+  <b>Visitor count </b><br>
+  <img src="https://profile-counter.glitch.me/Yuma-Tsushima07/count.svg" />
+       </p>
+
+### $ cat thefinalcountdown.html
+```shell
+v37r1x@v37r1x:~$ cat thefinalcountdown.html
+ <p align="center"> 
+  <b>Visitor count </b><br>
+  <img src="https://profile-counter.glitch.me/Yuma-Tsushima07/count.svg" />
+       </p>
+```
+
 ### $ whoami 💻
 ```shell
 v37r1x@v37r1x:~$ whoami
@@ -14,7 +28,7 @@ v37r1x@v37r1x:~$ cat learning.txt
 "I love learning a lot of things! Knowledge is power!!"
 ```
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/remonsec/remonsec/blob/main/assets/deku.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="">
 
 ### What am I learning next?
 * ⭐ Bio Hacking
@@ -30,6 +44,7 @@ v37r1x@v37r1x:~$ cat learning.txt
 v37r1x@v37r1x:~$ cat hobbies.txt
 "Having an endless list of hobbies is the key to unlock your potential!"
 ```
+<img hight="400" width="500" alt="GIF" align="right" src="">
 
 ### Hobbies
 * 🎨 Digital Artwork 
@@ -37,24 +52,62 @@ v37r1x@v37r1x:~$ cat hobbies.txt
 * ✏️ Drawing
 * 🎵 Making Music
 
+
 </br>
 </br>
 
-### $ cat introduction.md 🔎
+
+### $ cat introduction.txt 🔎
 ```shell
-v37r1x@v37r1x:~$ cat introduction.md
+v37r1x@v37r1x:~$ cat introduction.txt
 "Hello, to everyone who does not know me, I am just an normal person who does crazy things."
 ``` 
-I am just a regular person who came from the creative community. Technology was around me a lot, when I was younger I used to procrastinate in studies using everything I had.
-I jumped into hacking when I OSINTed my best friend who now does not like me anymore. I started to make random games and had crazy ideas of universes which never existed.
-Now, having a solid fundamentals of hacking and programming, I blasted into Hack The Box and stepped into the deep end of the sea. With all of my might, using determination, 
-resilience and belief. [Triangle of Positivity Reference] I now am an Elite Hacker on Hack The Box!
+I am just a regular person who came from the creative community now an Elite Hacker on Hack the Box. 
 
-### Profile
-*
-*
-*
-*
+### Profiles
+* 🖥️ [HackTheBox]()
+* 🖥️ [TryHackMe](https://tryhackme.com/p/v37r1x)
+* 🖥️ [Medium](https://0xv37r1x3r.medium.com/)
+* 🖥️ [Github](https://github.com/Yuma-Tsushima07)
+* 🖥️ [RootMe](https://www.root-me.org/V37R1X?lang=en)
+* 🖥️ [HackerOne]()
+* 🖥️ [BugCrowd]()
+
+### $ cat languages.txt 🌐
+```shell
+v37r1x@v37r1x:~$ cat languages.txt
+"I do know a lot of languages; who doesn't!"
+```
+<img hight="400" width="500" alt="GIF" align="right" src="">
+
+### Languages
+* 🚩 Javascript and Frameworks
+* 🚩 Python
+* 🚩 C#
+* 🚩 Bash
+* 🚩 HTML/CSS
+
+</br>
+</br>
+
+### $ sudo su 
+```shell
+v37r1x@v37r1x:~$ sudo su
+[sudo] password for v37r1x: *************
+root@v37r1x:/home/v37r1x:~# cd
+root@v37r1x:~# echo "Rooted by v37r1x" && whoami && hostname && id
+Rooted by v37r1x
+root
+v37r1x
+uid=0(root) gid=0(root) groups=0(root)
+```
+
+### ~# echo note.txt 🗒️
+
+```shell
+root@v37r1x:~# echo note.txt
+"Please click on the drop down buttons to see more about me! Thank you for reading <3"
+```
 
 
 
