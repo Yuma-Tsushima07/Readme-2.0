@@ -143,4 +143,10 @@ root@v37r1x:~# echo note.txt
   <br></br>
   </details>
 
+<details>
+  <summary><b>Github Statistics</b></summary>
+  <img align="center" src="/github-metrics.svg" alt="Yuma's Stats">
+<br><br>
+</details>
+
 
