@@ -65,13 +65,13 @@ v37r1x@v37r1x:~$ cat introduction.txt
 I am just a regular person who came from the creative community now an Elite Hacker on Hack the Box. 
 
 ### Profiles
-* 🖥️ [HackTheBox]()
+* 🖥️ [HackTheBox](https://app.hackthebox.eu/profile/496941)
 * 🖥️ [TryHackMe](https://tryhackme.com/p/v37r1x)
 * 🖥️ [Medium](https://0xv37r1x3r.medium.com/)
 * 🖥️ [Github](https://github.com/Yuma-Tsushima07)
 * 🖥️ [RootMe](https://www.root-me.org/V37R1X?lang=en)
-* 🖥️ [HackerOne]()
-* 🖥️ [BugCrowd]()
+* 🖥️ [HackerOne](https://hackerone.com/v37r1x?type=user)
+* 🖥️ [BugCrowd](https://bugcrowd.com/v37r1x)
 
 ### $ cat languages.txt 🌐
 ```shell
