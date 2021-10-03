@@ -96,6 +96,17 @@ v37r1x@v37r1x:~$ cat languages.txt
 </br>
 </br>
 
+### $ grep -iR "Anime"
+```shell
+v37r1x@v37r1x:~$ grep -iR "Anime"
+Anime/Code-Geass.md:Brilliant war and conflict anime.
+Anime/Luck-and-logic.md:This anime is fav metcha!
+Anime/Death-Note.md:Super cool detective anime.
+Anime/Parasyte.md:A lot of science in this anime hehe.
+Anime/Save-me-lolipop.md:Sad anime but you know it's cool...
+```
+
+
 ### $ sudo su 
 ```shell
 v37r1x@v37r1x:~$ sudo su
