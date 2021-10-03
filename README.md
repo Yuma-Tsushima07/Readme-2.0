@@ -118,7 +118,15 @@ root@v37r1x:~# echo note.txt
   
   <a href="https://discord.com/users/412641051824750611"></a>
 <img height="80px" src="https://discord.c99.nl/widget/theme-3/412641051824750611.png">
-<br><br>
+<br></br>
     </details>
+
+<details>
+  <summary><b>HackTheBox</b></summary>
+
+  <a href="https://app.hackthebox.eu/profile/496941"></a>
+<img src="http://www.hackthebox.eu/badge/image/496941" alt="Hack The Box">
+  <br></br>
+  </details>
 
 
