@@ -133,7 +133,7 @@ root@v37r1x:~# echo note.txt
   <summary><b>TryHackMe</b></summary>
 
   <a href="https://tryhackme.com/p/v37r1x"></a>
-<img src="https://tryhackme-badges.s3.amazonaws.com/v37r1x.png" alt="TryHackMe">
+<img src="https://github.com/Yuma-Tsushima07/Readme/blob/main/assets/v37r1x.png" alt="TryHackMe">
   <br></br>
   </details>
 
