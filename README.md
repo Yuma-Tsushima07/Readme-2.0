@@ -21,6 +21,9 @@ v37r1x@v37r1x:~$ whoami
 
 I am Yuma (V37R1X) a 17 year old whom studies Chemistry, Mathematics and Information Communication Technology also does Ethical Hacking and Digital Artwork as a side task.
 
+![image](https://user-images.githubusercontent.com/63207324/135754304-3ee4dd9c-7336-45d9-90f7-3676cb7848f5.png)
+
+
 
 ### $ cat learning.txt 📘
 ```shell
