@@ -69,6 +69,8 @@ v37r1x@v37r1x:~$ cat introduction.txt
 "Hello, to everyone who does not know me, I am just an normal person who does crazy things."
 ``` 
 I am just a regular person who came from the creative community now an Elite Hacker on Hack the Box. 
+<img hight="400" width="500" align="right" src="https://user-images.githubusercontent.com/63207324/135807752-99dbc8da-46a8-4108-aec0-68649b33dbfd.png">
+
 
 ### Profiles
 * 🖥️ [HackTheBox](https://app.hackthebox.eu/profile/496941)
