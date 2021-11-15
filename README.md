@@ -8,14 +8,7 @@
   <img src="https://profile-counter.glitch.me/Yuma-Tsushima07/count.svg" />
        </p>
 
-### $ cat thefinalcountdown.html
-```shell
-v37r1x@v37r1x:~$ cat thefinalcountdown.html
- <p align="center"> 
-  <b>Visitor count </b><br>
-  <img src="https://profile-counter.glitch.me/Yuma-Tsushima07/count.svg" />
-       </p>
-```
+
 
 ### $ whoami 💻
 ```shell
