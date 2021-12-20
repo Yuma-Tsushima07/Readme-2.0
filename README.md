@@ -1,4 +1,4 @@
-## Hello World! 
+# $ echo "Hello World!" 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=F71F0F&center=true&vCenter=true&lines=I+am+an+Ethical+Hacker.;I+am+a+Digital+Artist.;I+am+a+Programmer.;I+am+a+CTF+player.;I+am+a+Musician.;I+am+an+Animator."/>
 </p>
