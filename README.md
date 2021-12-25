@@ -92,15 +92,11 @@ v37r1x@v37r1x:~$ cat languages.txt
 </br>
 </br>
 
-### $ grep -iR "Anime"
+### $ ./play-snake
 ```shell
-v37r1x@v37r1x:~$ grep -iR "Anime"
-Anime/Code-Geass.md:Brilliant war and conflict anime.
-Anime/Luck-and-logic.md:This anime is fav metcha!
-Anime/Death-Note.md:Super cool detective anime.
-Anime/Parasyte.md:A lot of science in this anime hehe.
-Anime/Save-me-lolipop.md:Sad anime but you know it's cool...
+v37r1x@v37r1x:~$ ./play-snake
 ```
+![snake gif](https://github.com/Yuma-Tsushima07/Yuma-Tsushima07/blob/output/github-contribution-grid-snake.svg)
 
 
 ### $ sudo su 
