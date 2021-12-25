@@ -92,12 +92,6 @@ v37r1x@v37r1x:~$ cat languages.txt
 </br>
 </br>
 
-### $ ./play-snake
-```shell
-v37r1x@v37r1x:~$ ./play-snake
-```
-![snake-gif](https://github.com/Yuma-Tsushima07/Yuma-Tsushima07/blob/output/github-contribution-grid-snake.svg)
-
 
 ### $ sudo su 
 ```shell
